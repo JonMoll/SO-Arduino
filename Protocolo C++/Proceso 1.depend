@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1494899615 source:/home/jonathan/C++/Productor-consumidor/Proceso 1/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<unistd.h>
+
+1495562864 source:/home/jonathan/C++/Productor-consumidor (2)/Proceso 1/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<unistd.h>
+
